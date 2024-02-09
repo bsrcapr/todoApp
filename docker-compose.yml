@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  todoapp-postgres-1:
+    image: postgres
+    environment:
+      POSTGRES_DB: todoappdatabase
+      POSTGRES_USER: todoapp
+      POSTGRES_PASSWORD: 1234todoapp
+    ports:
+      - "5432:5432"
