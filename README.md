@@ -5,7 +5,7 @@
 Proje bağımlılıklarını yüklemek ve projeyi başlatmak için aşağıdaki adımları takip edin:
 
 1. Proje deposunu bilgisayarınıza klonlayın:
-   git clone https://github.com/busrcapr/todoApp.git
+   git clone https://github.com/bsrcapr/todoApp.git
 
 2. Vscode' da projeyi açın.
    
